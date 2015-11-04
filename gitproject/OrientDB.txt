@@ -1,0 +1,22 @@
+OrientDB
+---------
+>First Multimodel Open Source NoSQL DBMS
+>Power of graphs and flexibility of documentation
+>Scalable high performance database
+
+Advantages of OrientDB
+-----------------------
+
+1)Built for Speed
+-It is fast on both read and write operations
+-In RDBMS  the more data slower the datbase O(LogN), but orientDB handle relationship as physical links to the record, assign only once.
+-OrientDB speed not affected by database size. It is always constant O(1)
+
+2)Easy to install and use
+-Written in Java can run any platform without configuration and install
+
+3)Open source
+
+4)Enterprice ready
+
+5)Unmatched flexibility

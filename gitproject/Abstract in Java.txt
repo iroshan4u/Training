@@ -1,0 +1,11 @@
+Java OOP Concept
+
+1)Abstract
+
+>Process of hiding implmentation details from user and provide only functionality to the user
+>Abstraction archive using; Abstract class and Interface
+
+Abstract Class
+
+>class contain abstract keyword in its declaration is abstract class
+>Abstract
